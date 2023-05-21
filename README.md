@@ -52,6 +52,10 @@ npm start
 ## Technology Used
 
 -   React JS
+-   Zustand State Manager
+-   JavaScript
+-   CSS
+-   HTML
 
 ## Contributing
 Contributions are welcome! If you want to contribute to this project, please follow these steps:
