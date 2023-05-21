@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+# Track My Prep App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Track My Prep App is a web application designed to help users organize and track their preparation progress for interviews, exams, courses, or any other study materials. It provides a user-friendly interface with important questions/ study materials and user can also track progress for each topic.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Dashboard: Users are presented with a personalized dashboard that displays their question banks/ study materials, goals, and progress.
+- Progress Tracking: Users can update their progress for each study material and track their overall progress over time.
+- Statistics: Users can view statistics and charts to visualize their progress and identify areas for improvement.
 
-### `npm start`
+## Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation
 
-### `npm test`
+1. Clone the repository:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+git clone https://github.com/scode24/track-my-prep-app.git
+```
 
-### `npm run build`
+2. Install dependencies:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+cd track-my-prep-app
+npm install
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3.  Configure environment variables:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-   Create a .env file based on the provided .env.example file.
+-   Update the configuration variables with your own values (e.g., database connection details, API keys).
 
-### `npm run eject`
+4.  Start the application:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+npm start
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Installation
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+-   Explore the dashboard to view your study materials, goals, and progress.
+-   Update your progress for each study material to keep track of your accomplishments.
+-   Use the statistics and charts to analyze your progress and identify areas for improvement.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Technology Used
 
-## Learn More
+-   React JS
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contributing
+Contributions are welcome! If you want to contribute to this project, please follow these steps:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Fork the repository.
+- Create a new branch for your feature/bug fix: git checkout -b my-feature.
+- Make your changes and commit them: git commit -m 'Add some feature'.
+- Push your changes to the branch: git push origin my-feature.
+- Submit a pull request to the main branch of the original repository.
+- Please ensure that your code follows the established coding style and includes appropriate tests.
 
-### Code Splitting
+## Contact
+For any questions or inquiries, please contact the project maintainer:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+-   Name: Soumyabrata Sarkar
+-   Email: sarkar.soumyabrata2@gmail.com
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feel free to open an issue in the repository for bug reports or feature requests.
