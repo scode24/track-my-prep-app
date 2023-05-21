@@ -1,0 +1,12 @@
+What are different types of design pattern ?
+Why do we need design pattern ?
+Implement custom singleton class ?
+How many ways singleton pattern can be broken ?
+How to prevent breakage of singleton pattern ?
+Example of singleton pattern
+What are the difference between singleton and prototype pattern ?
+Implement factory design / abstract factory design pattern ?
+What are the difference between factory and abstract factory design pattern ?
+Example of factory design pattern
+Implement builder designer pattern
+Example of builder design pattern

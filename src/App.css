@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.left {
+    flex: 1;
+}
+
+.middle {
+    flex: 3;
+}
+
+.right {
+    flex: 1;
+}
+
+@media (max-width: 991.98px) {
+    .left {
+        display: none;
+    }
+
+    .right {
+        display: none;
+    }
+}

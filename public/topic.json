@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Core Java",
+        "filename": "core-java.txt",
+        "isCurrentlySelected": false
+    },
+    {
+        "name": "Design Pattern",
+        "filename": "design-pattern.txt",
+        "isCurrentlySelected": false
+    },
+    {
+        "name": "Spring",
+        "filename": "spring.txt",
+        "isCurrentlySelected": false
+    }
+]

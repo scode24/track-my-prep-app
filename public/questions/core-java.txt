@@ -1,0 +1,85 @@
+What are JDK, JVM, JRE ?
+What is the latest version of Java ?
+What is the memory model architecture of JVM ?
+What is the change in memory model architecture in JDK 1.8 ?
+What is string pool and where it resides ?
+Which design pattern is used in string pool construct ?
+What are the different types of garbage collectors are there in JVM ?
+How to specify a particular garbage collector for a java process ?
+How does JVM compiles Java Code ?
+ClassLoaders in Java ?
+How to make custom class loader in Java ?
+What is Aggregation, Association and Composition ?
+What is IS-A, HAS-A relation ship ?
+What is Object Oriented Programming ?
+What is Abstraction and how can be achieved that ?
+Deadly diamond problem in Java.
+Can Java 8, 11 handle multiple inheritance problem ?
+What is the difference between Abstract Class and Interface ?
+What is Functional Interface in Java ?
+Why does Java 8 allows default method in interface ?
+Can one class extends two classes or interfaces ?
+What is polymorphism in Java ?
+In case of override can a method has different return type ?
+Rules of method overloading and overriding.
+What is method hiding ?
+What is dynamic linking in Java ?
+Difference between for, for each loop ?
+Internal implementation of for-each loop
+String str1 = "Test", String str2 = new String("str1"), how many objects will be created in which memory location ?
+Why string is immutable ?
+How to create custom immutable class ?
+What is the use of StringBuffer and StringBuilder ? Which one to use and when ?
+What is the difference between == and equals() ?
+Using string as a key in hashmap is a good idea or not ?
+Is Throwable is a class or interface ?
+Explain Java exception hierarchy
+What is compile time and runtime exception ?
+How many ways exception can be handled ?
+Parent class method throws compile-time exception and child class overridden method does not throw any exception is this a valid case ?
+Parent class method throws runtime-time exception and child class overridden method does not throw any exception is this a valid case ?
+How exception is different than errors ?
+Can errors be thrown ?
+How to handle errors ?
+What is exception chaining ?
+How to handle multiple exceptions in catch in proper way ?
+What changes has been made in JDK 1.7 in order handle multiple exceptions in catch ?
+Difference between throw and throws ?
+How exception works in case of polymorphism ?
+What is Thread and Process ?
+Explain thread life-cycle ?
+What is dead-lock and how to identify dead-lock in an application ?
+How to prevent dead-lock ?
+What is concurrent modification exception and how to overcome this ?
+What are fail-fast, fail-safe in Java.
+Create 2 threads which simultaneously try to access same resource. How to handle with proper coding so that dead-lock does not appear.
+How to create Thread-pool, how may types of thread pool is there ?
+What is Count-Down latch and what is the use of this ?
+What is CopyOnWriteArrayList ?
+How many ways a thread can be created ? Which way is better than others ?
+Difference between Runnable and Callable interface ?
+What is deep copy and shallow copy ?
+How to clone an object in Java ?
+Does Java supports pass by reference or pass by value ?
+What is Wrapper class ?
+What are auto-boxing and un-boxing ?
+What is Marker interface with example ?
+What is the use of Marker interface ?
+Difference between Collection and Collections ?
+How does HashSet works internally ?
+How does HashMap works internally according to JDK 1.8 ?
+Difference between HashMap and HashSet ?
+How to sort a map based on key ?
+Difference between LinkedHashMap and TreeMap ?
+Difference between HashTable and HashMap ?
+Difference between Synchronized HashMap, HashTable, ConcurrentHashMap ?
+Can concurrent modification exception occur by iterating and modifying objects through for and for-each loop ?
+What is equals(), hashCode() override contract ?
+How does ArrayList works internally ?
+ArrayList or LinkedList which is better to use  
+How to write a proper hashCode() ?
+What is Serialization ?
+How to serialize one java object ?
+What is transient type ?
+What is volatile type ?
+Can we declare variables in interface ? If so what will be the type of variables ?
